@@ -2,4 +2,4 @@
  * Example for Maven Project
  */
 
-pacakge com.example;
+package com.example;
