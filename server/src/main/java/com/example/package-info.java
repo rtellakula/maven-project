@@ -1,5 +1,4 @@
 /**
- * Example for Maven Project
+ * Example for Maven Project.
  */
-
 package com.example;
